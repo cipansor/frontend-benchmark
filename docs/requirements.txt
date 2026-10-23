@@ -8,5 +8,5 @@
 #
 # pillow  -> image decoding/cropping (optimize-images.py, pixel-parity.py)
 # numpy   -> fast per-pixel difference masking (pixel-parity.py)
-pillow==12.3.0
+pillow==13.0.0
 numpy==2.5.3
